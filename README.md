@@ -88,6 +88,9 @@ The syntax for windows is identical to that for linux, with the exception that "
 "Collidoscope.exe". Because we expect most people to use linux, the rest of the readme is written using linux-based
 commands. To translate these to Windows commands, simply make the replacement mentioned above.
 
+MAC:
+To install Collidoscope on a Mac, please see the file "Installing Collidoscope on a Mac.docx". Because Collidoscope uses OpenMP to parallelize over multiple threads, and Mac OS doesn't support OpenMP, you need to follow the instructions in that document to get a compiler that does just that. The file contains step-by-step instructions with screen shots for how to do this. Once installed, Collidoscope should operate on your Mac essentially identically to its operation in Linux via the command line terminal.
+
     2) Quick-start to Using Collidoscope:
 After installation, the command 
 

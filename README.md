@@ -63,6 +63,10 @@ executable can be run with or without MPI, so it is more versatile. To run Colli
 See section 4 to see what command line arguments you should use and when, in order to compute your CCS.
 
 WINDOWS:
+
+Update as of 8/1/2019: To install in Windows, please see the document "Collidoscope installation for Windows.docx", which gives much more detailed instructions than below!
+
+(older, less detailed instructions:)
 As prerequisites, Collidoscope requires a c++ compiler and MSMPI. I believe that any compiler will work if you
 prefer to use a specific compiler, but we compiled Collidoscope using Microsoft Visual Studio, which you can download
 at
